@@ -1,0 +1,16 @@
+*, ::before, ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.searchFlight{
+    width: 100%;
+    background-color: #eee;
+    border: none;
+    padding: 1%;
+}
+
+fieldset{
+    border: none;
+}
