@@ -14,3 +14,22 @@
 fieldset{
     border: none;
 }
+
+.inline{
+    display: flex;
+    flex-direction: row;
+}
+
+.item{
+  display: flex;  
+  margin: 2px 10px;
+}
+
+.btn{
+    display: flex;
+    justify-content: right;
+}
+.btn button{
+  margin: 2px 10px;
+}
+
